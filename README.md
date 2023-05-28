@@ -28,7 +28,7 @@ To explore my portfolio website locally, follow these steps:
 
     bash
 
-git clone https://github.com/your-username/portfolio-project.git
+    git clone https://github.com/Shoeb-K/Protfolio.git
 
 Navigate to the project directory:
 
