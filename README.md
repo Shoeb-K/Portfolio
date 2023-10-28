@@ -1,4 +1,4 @@
-# Protfolio
+# Portfolio 
  Welcome to my Portfolio Project repository! This project serves as a showcase for my skills and achievements in the field of web development. Built with HTML, CSS, and JavaScript, this portfolio website provides an interactive and visually appealing platform to highlight my professional journey, technical expertise, and noteworthy accomplishments.
 Project Overview
 
